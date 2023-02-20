@@ -25,6 +25,7 @@ navbar-links:
     - Beautiful Jekyll: "http://jlhauer.github.io/beautiful-jekyll/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
+  Table Demo: "table-demo" 
   Author's home: "https://jlhauer.github.io"
 
 # --- Logo --- #
