@@ -104,7 +104,7 @@ post_search: true
 navbar-text-col: "#jekyll 3.9.3 | Error:  (/srv/jekyll/_config.yml): found character that cannot start any token while scanning for the next token at line 52 column 12"
 navbar-border-col: "#FF1493"
 page-col: "#FFF0F5"
-text-col: "#000000"
+text-col: "#FFF0F5"
 link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#C71585"
