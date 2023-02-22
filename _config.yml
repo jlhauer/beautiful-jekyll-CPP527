@@ -101,11 +101,11 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#FF1493"
-navbar-text-col: "#jekyll 3.9.3 | Error:  (/srv/jekyll/_config.yml): found character that cannot start any token while scanning for the next token at line 52 column 12"
+navbar-text-col: "#C71585"
 navbar-border-col: "#FF1493"
 page-col: "#FFF0F5"
-text-col: "#FFF0F5"
-link-col: "#000000"
+text-col: "#000000"
+link-col: "#C71585"
 hover-col: "#0085A1"
 footer-col: "#C71585"
 footer-text-col: "#000000"
