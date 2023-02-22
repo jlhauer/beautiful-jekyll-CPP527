@@ -6,40 +6,33 @@
 # --- Required options --- #
 
 # Name of website
-title: CPP 527 Lab 5 Hauer Website
-email: jessica.hauer@asu.edu
-description: Learning R and Community Analytics if FUN
-author: Jessica Hauer # Your name to show in the footer
-baseurl: ""
-url: http://jlhauer.github.io
+title: jlhauer
 
-runs:
-  using: 'node16'
-  main: 'main.js'
+# Your name to show in the footer
+author: Jessica Hauer
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://jlhauer.github.io/beautiful-jekyll/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
+    - Getting Started: "getstarted"   
   Table Demo: "table-demo" 
-  Author's home: "https://jlhauer.github.io"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/Flagstaff Extreme July 2022.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/Plenty of Beauty at the Bottom.PNG
 
 
 # --- Footer social media links --- #
@@ -48,8 +41,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jessica.hauer@asu.edu"
+  #facebook: deanattali
   github: jlhauer
-  twitter: @HauerJlhauer
+  twitter: HauerJlhauer
+  #patreon: DeanAttali
   youtube: c/jessicahauer7296
 #  medium: yourname
 #  reddit: yourname
@@ -84,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -115,7 +110,6 @@ hover-col: "#0085A1"
 footer-col: "#C71585"
 footer-text-col: "#000000"
 footer-link-col: "#FDF5E6"
-
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
@@ -124,7 +118,7 @@ navbar-img: "/assets/img/Plenty of Beauty at the Bottom.PNG"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-mobile-theme-col: "#FDF5E6"
+#mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
@@ -242,3 +236,17 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
