@@ -48,7 +48,7 @@ social-network-links:
   youtube: c/jessicahauer7296
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: jessica-hauer-sidell-7239908
+  linkedin: jessica-hauer-sidell-7239908
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -105,7 +105,7 @@ navbar-text-col: "#jekyll 3.9.3 | Error:  (/srv/jekyll/_config.yml): found chara
 navbar-border-col: "#FF1493"
 page-col: "#FFF0F5"
 text-col: "#000000"
-link-col: "#4B0082"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#C71585"
 footer-text-col: "#000000"
